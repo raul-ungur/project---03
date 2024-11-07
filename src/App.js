@@ -58,7 +58,6 @@ function App() {
                   fontSize: "40px",
                   color: "green",
                   marginLeft: "30px",
-
                   marginBottom: "40px",
                   cursor: "pointer",
                 }}
