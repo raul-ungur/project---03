@@ -46,6 +46,7 @@ function Login() {
           </div>
 
           <div
+            id="login-button"
             className={action === "Login" ? "submit gray" : "submit"}
             onClick={() => {
               setAction("Login");
